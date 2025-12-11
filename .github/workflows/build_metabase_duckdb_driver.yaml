@@ -40,7 +40,7 @@ jobs:
         yarn --version
         
     - name: Set up Clojure
-      uses: DeLaGuardo/setup-clojure@12.3
+      uses: DeLaGuardo/setup-clojure@13.4
       with:
         cli: latest
         
